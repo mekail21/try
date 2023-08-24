@@ -62,7 +62,7 @@ ua = []
 
 del ua
 """
-[FB_IAB/FB4A;FBAV/417.0.0.33.65;]
+'[FBAN/FB4A;FBAV/42.0.0.2644;FBBV/6333123;[FBAN/FB4A;FBAV/291.0.0.44.120;FBBV/249604787;FBDM/{density=2.5,width=1080,height=2179};FBLC/ro_RO;FBRV/0;FBCR/Digi.Mobil RO;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9060I;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 """
 
 ua=[]
