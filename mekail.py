@@ -62,7 +62,7 @@ ua = []
 
 del ua
 """
-'[FBAN/FB4A;FBAV/42.0.0.2644;FBBV/6333123;[FBAN/FB4A;FBAV/291.0.0.44.120;FBBV/249604787;FBDM/{density=2.5,width=1080,height=2179};FBLC/ro_RO;FBRV/0;FBCR/Digi.Mobil RO;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9060I;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.114 Mobile Safari/537.36 [FBAN/FBIOS;FBDV/iPhone12,1;FBMD/iPhone;FBSN/iOS;FBSV/16.6;FBSS/2;FBID/phone;FBLC/nl_NL;FBOP/5] [FBAN/FBIOS;FBDV/iPad5,4;FBMD/iPad;FBSN/iPadOS;FBSV/15.7.8;FBSS/2;FBID/tablet;FBLC/en_GB;FBOP/5] [FB_IAB/FB4A;FBAV/429.0.0.27.114;] [FBAN/FB4A;FBAV/309.0.0.47.119;FBBV/277444756;FBDM/{density=3.0,width=1080,height=1920};FBLC/de_DE;FBRV/279865282;FBCR/Willkommen;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G930F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;] 
 """
 
 ua=[]
