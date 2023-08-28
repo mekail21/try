@@ -62,7 +62,7 @@ ua = []
 
 del ua
 """
-Dalvik/2.1.0 (Linux; U; Android {random.randint(4,13)}; {random.choice(model2)} Build/RP2A.{random.randint(111111,999999)}.{random.randint(111,999)}) [FBAN/FB4A;FBAV/470.1.80.24.874;FBBV/"+str(VAPP)+";FBDM/{density=2.5,width=780,height=1920};FBLC/fr_IN;FBRV/4214899694;FBCR/1030;FBMF/Realme;FBBD/Ostin;FBPN/com.facebook.katana;FBDV/"+random.choice(model2)+";FBSV/16;FBOP/5;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/110.0.0.6.11;FBBV/462536162;FBDM/{density=2.5,width=1920,height=1920};FBLC/de_DE;FBRV/899744738;FBCR/Grameenphone;FBMF/Techno;FBBD/techno;FBPN/com.facebook.katana;FBDV/KD7h;FBSV/15;FBOP/6;FBCA/x86_64:;]
 """
 
 ua=[]
